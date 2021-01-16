@@ -1,4 +1,4 @@
-# CiftlikUygulamas-
+# CiftlikUygulaması
 C# Form Çiftlik uygulaması
 
 
