@@ -1,0 +1,26 @@
+﻿/****************************************************************************
+// Hüseyin Hıra 2018
+// Çiftlik Projem
+****************************************************************************/
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _1A_B181210105_Proje
+{
+    static class Program
+    {
+        /// <summary>
+        /// Uygulamanın ana girdi noktası.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
